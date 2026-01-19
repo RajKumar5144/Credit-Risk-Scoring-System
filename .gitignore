@@ -1,0 +1,7 @@
+*.pkl
+*.xls
+*.xlsx
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+credit_risk.ipynb
